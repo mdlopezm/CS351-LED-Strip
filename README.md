@@ -1,10 +1,13 @@
 # CS351-LED-Strip
 Final Project for CS 351. Code to post website, for AWS Lambda, and for the Raspberry Pi &amp; Arduino.
 
-TODO:
+# TODO:
 1- Figure out how to communicate between devices in AWS IOT
 2- Upload Python app to the webserver
 3- modify the python app to post a MQTT message AWS IOT Account 
+
+
+# Useful Links:
 
 Used the to set up the web server on EC2
 https://docs.aws.amazon.com/iot/latest/developerguide/creating-a-virtual-thing.html
